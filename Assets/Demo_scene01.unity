@@ -1661,7 +1661,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   Camera: {fileID: 119639329}
-  PlayerSpeed: 0.15
+  PlayerSpeed: 0.2
   RotationSpeed: 2.5
   PlayerAnimator: {fileID: 327347929}
   WeaponCollider: {fileID: 854750108}
